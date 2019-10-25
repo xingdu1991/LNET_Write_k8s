@@ -1,0 +1,132 @@
+[LNet Rates of lfrom]
+[R] Avg: 150      RPC/s Min: 150      RPC/s Max: 150      RPC/s
+[W] Avg: 148      RPC/s Min: 148      RPC/s Max: 148      RPC/s
+[LNet Bandwidth of lfrom]
+[R] Avg: 0.01     MB/s  Min: 0.01     MB/s  Max: 0.01     MB/s  
+[W] Avg: 78.15    MB/s  Min: 78.15    MB/s  Max: 78.15    MB/s  
+[LNet Rates of lto]
+[R] Avg: 51       RPC/s Min: 1        RPC/s Max: 152      RPC/s
+[W] Avg: 51       RPC/s Min: 1        RPC/s Max: 152      RPC/s
+[LNet Bandwidth of lto]
+[R] Avg: 26.11    MB/s  Min: 0.00     MB/s  Max: 78.33    MB/s  
+[W] Avg: 0.00     MB/s  Min: 0.00     MB/s  Max: 0.01     MB/s  
+[LNet Rates of lfrom]
+[R] Avg: 160      RPC/s Min: 160      RPC/s Max: 160      RPC/s
+[W] Avg: 158      RPC/s Min: 158      RPC/s Max: 158      RPC/s
+[LNet Bandwidth of lfrom]
+[R] Avg: 0.01     MB/s  Min: 0.01     MB/s  Max: 0.01     MB/s  
+[W] Avg: 83.10    MB/s  Min: 83.10    MB/s  Max: 83.10    MB/s  
+[LNet Rates of lto]
+[R] Avg: 54       RPC/s Min: 1        RPC/s Max: 162      RPC/s
+[W] Avg: 54       RPC/s Min: 1        RPC/s Max: 159      RPC/s
+[LNet Bandwidth of lto]
+[R] Avg: 27.61    MB/s  Min: 0.00     MB/s  Max: 82.84    MB/s  
+[W] Avg: 0.00     MB/s  Min: 0.00     MB/s  Max: 0.01     MB/s  
+[LNet Rates of lfrom]
+[R] Avg: 155      RPC/s Min: 155      RPC/s Max: 155      RPC/s
+[W] Avg: 157      RPC/s Min: 157      RPC/s Max: 157      RPC/s
+[LNet Bandwidth of lfrom]
+[R] Avg: 0.01     MB/s  Min: 0.01     MB/s  Max: 0.01     MB/s  
+[W] Avg: 80.46    MB/s  Min: 80.46    MB/s  Max: 80.46    MB/s  
+[LNet Rates of lto]
+[R] Avg: 51       RPC/s Min: 1        RPC/s Max: 151      RPC/s
+[W] Avg: 52       RPC/s Min: 1        RPC/s Max: 153      RPC/s
+[LNet Bandwidth of lto]
+[R] Avg: 26.85    MB/s  Min: 0.00     MB/s  Max: 80.55    MB/s  
+[W] Avg: 0.00     MB/s  Min: 0.00     MB/s  Max: 0.01     MB/s  
+[LNet Rates of lfrom]
+[R] Avg: 157      RPC/s Min: 157      RPC/s Max: 157      RPC/s
+[W] Avg: 154      RPC/s Min: 154      RPC/s Max: 154      RPC/s
+[LNet Bandwidth of lfrom]
+[R] Avg: 0.01     MB/s  Min: 0.01     MB/s  Max: 0.01     MB/s  
+[W] Avg: 81.77    MB/s  Min: 81.77    MB/s  Max: 81.77    MB/s  
+[LNet Rates of lto]
+[R] Avg: 53       RPC/s Min: 1        RPC/s Max: 158      RPC/s
+[W] Avg: 53       RPC/s Min: 1        RPC/s Max: 158      RPC/s
+[LNet Bandwidth of lto]
+[R] Avg: 27.04    MB/s  Min: 0.00     MB/s  Max: 81.13    MB/s  
+[W] Avg: 0.00     MB/s  Min: 0.00     MB/s  Max: 0.01     MB/s  
+[LNet Rates of lfrom]
+[R] Avg: 151      RPC/s Min: 151      RPC/s Max: 151      RPC/s
+[W] Avg: 154      RPC/s Min: 154      RPC/s Max: 154      RPC/s
+[LNet Bandwidth of lfrom]
+[R] Avg: 0.01     MB/s  Min: 0.01     MB/s  Max: 0.01     MB/s  
+[W] Avg: 78.83    MB/s  Min: 78.83    MB/s  Max: 78.83    MB/s  
+[LNet Rates of lto]
+[R] Avg: 51       RPC/s Min: 1        RPC/s Max: 150      RPC/s
+[W] Avg: 51       RPC/s Min: 1        RPC/s Max: 150      RPC/s
+[LNet Bandwidth of lto]
+[R] Avg: 26.60    MB/s  Min: 0.00     MB/s  Max: 79.81    MB/s  
+[W] Avg: 0.00     MB/s  Min: 0.00     MB/s  Max: 0.01     MB/s  
+[LNet Rates of lfrom]
+[R] Avg: 157      RPC/s Min: 157      RPC/s Max: 157      RPC/s
+[W] Avg: 156      RPC/s Min: 156      RPC/s Max: 156      RPC/s
+[LNet Bandwidth of lfrom]
+[R] Avg: 0.01     MB/s  Min: 0.01     MB/s  Max: 0.01     MB/s  
+[W] Avg: 81.83    MB/s  Min: 81.83    MB/s  Max: 81.83    MB/s  
+[LNet Rates of lto]
+[R] Avg: 52       RPC/s Min: 1        RPC/s Max: 155      RPC/s
+[W] Avg: 52       RPC/s Min: 1        RPC/s Max: 154      RPC/s
+[LNet Bandwidth of lto]
+[R] Avg: 26.83    MB/s  Min: 0.00     MB/s  Max: 80.50    MB/s  
+[W] Avg: 0.00     MB/s  Min: 0.00     MB/s  Max: 0.01     MB/s  
+[LNet Rates of lfrom]
+[R] Avg: 153      RPC/s Min: 153      RPC/s Max: 153      RPC/s
+[W] Avg: 154      RPC/s Min: 154      RPC/s Max: 154      RPC/s
+[LNet Bandwidth of lfrom]
+[R] Avg: 0.01     MB/s  Min: 0.01     MB/s  Max: 0.01     MB/s  
+[W] Avg: 79.65    MB/s  Min: 79.65    MB/s  Max: 79.65    MB/s  
+[LNet Rates of lto]
+[R] Avg: 52       RPC/s Min: 1        RPC/s Max: 154      RPC/s
+[W] Avg: 52       RPC/s Min: 1        RPC/s Max: 153      RPC/s
+[LNet Bandwidth of lto]
+[R] Avg: 26.97    MB/s  Min: 0.00     MB/s  Max: 80.92    MB/s  
+[W] Avg: 0.00     MB/s  Min: 0.00     MB/s  Max: 0.01     MB/s  
+[LNet Rates of lfrom]
+[R] Avg: 157      RPC/s Min: 157      RPC/s Max: 157      RPC/s
+[W] Avg: 155      RPC/s Min: 155      RPC/s Max: 155      RPC/s
+[LNet Bandwidth of lfrom]
+[R] Avg: 0.01     MB/s  Min: 0.01     MB/s  Max: 0.01     MB/s  
+[W] Avg: 81.63    MB/s  Min: 81.63    MB/s  Max: 81.63    MB/s  
+[LNet Rates of lto]
+[R] Avg: 54       RPC/s Min: 1        RPC/s Max: 160      RPC/s
+[W] Avg: 54       RPC/s Min: 1        RPC/s Max: 160      RPC/s
+[LNet Bandwidth of lto]
+[R] Avg: 27.46    MB/s  Min: 0.00     MB/s  Max: 82.39    MB/s  
+[W] Avg: 0.00     MB/s  Min: 0.00     MB/s  Max: 0.01     MB/s  
+[LNet Rates of lfrom]
+[R] Avg: 153      RPC/s Min: 153      RPC/s Max: 153      RPC/s
+[W] Avg: 153      RPC/s Min: 153      RPC/s Max: 153      RPC/s
+[LNet Bandwidth of lfrom]
+[R] Avg: 0.01     MB/s  Min: 0.01     MB/s  Max: 0.01     MB/s  
+[W] Avg: 79.65    MB/s  Min: 79.65    MB/s  Max: 79.65    MB/s  
+[LNet Rates of lto]
+[R] Avg: 50       RPC/s Min: 1        RPC/s Max: 149      RPC/s
+[W] Avg: 50       RPC/s Min: 1        RPC/s Max: 149      RPC/s
+[LNet Bandwidth of lto]
+[R] Avg: 26.06    MB/s  Min: 0.00     MB/s  Max: 78.19    MB/s  
+[W] Avg: 0.00     MB/s  Min: 0.00     MB/s  Max: 0.01     MB/s  
+[LNet Rates of lfrom]
+[R] Avg: 150      RPC/s Min: 150      RPC/s Max: 150      RPC/s
+[W] Avg: 150      RPC/s Min: 150      RPC/s Max: 150      RPC/s
+[LNet Bandwidth of lfrom]
+[R] Avg: 0.01     MB/s  Min: 0.01     MB/s  Max: 0.01     MB/s  
+[W] Avg: 78.14    MB/s  Min: 78.14    MB/s  Max: 78.14    MB/s  
+[LNet Rates of lto]
+[R] Avg: 51       RPC/s Min: 1        RPC/s Max: 151      RPC/s
+[W] Avg: 51       RPC/s Min: 1        RPC/s Max: 151      RPC/s
+[LNet Bandwidth of lto]
+[R] Avg: 26.28    MB/s  Min: 0.00     MB/s  Max: 78.83    MB/s  
+[W] Avg: 0.00     MB/s  Min: 0.00     MB/s  Max: 0.01     MB/s  
+[LNet Rates of lfrom]
+[R] Avg: 145      RPC/s Min: 145      RPC/s Max: 145      RPC/s
+[W] Avg: 144      RPC/s Min: 144      RPC/s Max: 144      RPC/s
+[LNet Bandwidth of lfrom]
+[R] Avg: 0.01     MB/s  Min: 0.01     MB/s  Max: 0.01     MB/s  
+[W] Avg: 75.60    MB/s  Min: 75.60    MB/s  Max: 75.60    MB/s  
+[LNet Rates of lto]
+[R] Avg: 49       RPC/s Min: 1        RPC/s Max: 145      RPC/s
+[W] Avg: 49       RPC/s Min: 1        RPC/s Max: 144      RPC/s
+[LNet Bandwidth of lto]
+[R] Avg: 25.15    MB/s  Min: 0.00     MB/s  Max: 75.46    MB/s  
+[W] Avg: 0.00     MB/s  Min: 0.00     MB/s  Max: 0.01     MB/s  
